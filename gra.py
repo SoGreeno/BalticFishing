@@ -1,3 +1,10 @@
+# UWAGA
+#
+# W Experimental zmiany są robione pod
+# gra2.py, nie gra.py
+#
+#
+
 import pygame
 import time
 

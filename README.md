@@ -8,6 +8,6 @@ bo czemu nie
 
 # Kontrole
 Strzałki - Poruszanie sie
-U - Ulepszanie (musisz być napierw przy porcie)
-S - Status
-L - Wyjście
+- U - Ulepszanie (musisz być napierw przy porcie)
+- S - Status
+- L - Wyjście

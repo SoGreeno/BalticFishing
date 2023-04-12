@@ -10,3 +10,7 @@ styl telefonów Sony Ericsson bo czemu nie
 - U - Ulepszanie (musisz być napierw przy porcie)
 - S - Status
 - L - Wyjście
+
+# Branche
+- Main - działajcy
+- Experimental - najnowszy ale pewnie nie będzie działać

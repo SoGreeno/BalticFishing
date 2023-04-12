@@ -12,7 +12,6 @@ ocean = pygame.image.load("ocean.png")
 player = pygame.image.load("lodz.png")
 ryba = pygame.image.load("ryba.png")
 port = pygame.image.load("port.png")
-liczby
 
 splash = pygame.image.load("splash.png")
 

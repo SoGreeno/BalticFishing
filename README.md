@@ -1,8 +1,13 @@
-# boatonaocean
+# Baltic Fishing
 
-łódka na oceanie
+Krótka gra w której masz za zadanie ulepszać swoją łódź
+z wyłowionych ryb.
 
+styl telefonów Sony Ericsson na większą
+bo czemu nie
 
-
-
-łódka na oceanie
+# Kontrole
+Strzałki - Poruszanie sie
+U - Ulepszanie (musisz być napierw przy porcie)
+S - Status
+L - Wyjście

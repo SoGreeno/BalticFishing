@@ -7,7 +7,7 @@ styl telefonów Sony Ericsson na większą
 bo czemu nie
 
 # Kontrole
-Strzałki - Poruszanie sie
+- Strzałki - Poruszanie sie
 - U - Ulepszanie (musisz być napierw przy porcie)
 - S - Status
 - L - Wyjście

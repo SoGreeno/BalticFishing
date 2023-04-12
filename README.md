@@ -3,8 +3,7 @@
 Krótka gra w której masz za zadanie ulepszać swoją łódź
 z wyłowionych ryb.
 
-styl telefonów Sony Ericsson na większą
-bo czemu nie
+styl telefonów Sony Ericsson bo czemu nie
 
 # Kontrole
 - Strzałki - Poruszanie sie
